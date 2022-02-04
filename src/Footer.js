@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className="Footer">
       <a
-        href="https://github.com/Elodie-n/shecodes-plus-finalproject"
+        href="https://github.com/Elodie-n/react-w4-homework"
         target="_blank"
         rel="noopener noreferrer"
       >
